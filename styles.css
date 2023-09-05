@@ -1,0 +1,51 @@
+
+
+
+body {
+
+
+    font-family: 'Acme', sans-serif;
+    
+
+    color: white;
+    text-align: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+    background-image: url(images/LIMONBG.png);
+    
+    margin-top: 160px;
+
+
+}
+
+button {
+
+    background-color: whitesmoke;
+    padding: 10px 20px;
+    border: 1px solid #ced4da;
+    border-radius: 10px;
+    font-family: inherit;
+}
+
+
+#yumosportrait {
+
+    height: 220px;
+    width: 250px;
+    border: 6px solid yellowgreen;
+    border-radius: 50%;
+}
+
+
+
+
+.title {
+    
+    text-shadow: 1px 1px 4px black;
+}
+
+#save-el {
+
+    font-style: italic;
+}
